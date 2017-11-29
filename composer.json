@@ -1,5 +1,5 @@
 {
-    "name": "amzn/amazon-advertising-api-php-sdk",
+    "name": "imikemiller/amazon-advertising-api-php-sdk",
     "type": "library",
     "description": "Amazon Advertising API Client Library",
     "keywords": [
